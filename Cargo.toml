@@ -1,0 +1,6 @@
+[package]
+name = "shiranami"
+version = "0.1.0"
+authors = ["tada <tada3@outlook.com>"]
+
+[dependencies]
